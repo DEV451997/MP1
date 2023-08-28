@@ -1,0 +1,21 @@
+/* Navigation bar styling */
+.navbar a {
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+}
+
+/* Body image for the landing page */
+.home-image {
+    background: url(../assets/images/ZEUS.jpg)no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Styling for the welcome message and quote landing page */
+.container {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 200px;
+}
