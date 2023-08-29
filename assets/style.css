@@ -7,7 +7,7 @@
 
 /* Body image for the landing page */
 .home-image {
-    background: url(../assets/images/ZEUS.jpg)no-repeat center center;
+    background: url(../assets/images/ZEUS.background.jpg)no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
 }
