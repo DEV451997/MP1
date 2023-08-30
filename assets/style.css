@@ -21,6 +21,29 @@
     margin-bottom: 200px;
 }
 
+.scroll-down-arrow {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.scroll-down-arrow i {
+  font-size: 24px;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+  }
+  40% {
+      transform: translateY(10px);
+  }
+  60% {
+      transform: translateY(5px);
+  }
+}
+
+
 
 .gym-info {
   font-size: 150%;
