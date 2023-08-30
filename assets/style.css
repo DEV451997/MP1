@@ -1,8 +1,12 @@
 /* Navigation bar styling */
 .navbar a {
-  font-size: 2rem;
+  font-size: 3rem;
   color: white;
   text-decoration: none;
+}
+
+.navbar a:hover{
+  color: crimson;
 }
 
 /* Body image for the landing page */
@@ -65,6 +69,7 @@ margin: 0;
 display: flex;
 flex-wrap: wrap;
 margin-top: 0;
+margin-bottom: 0;
 padding: 0;
 background-color: black;
 background: linear-gradient(to bottom, #000000, #232222);
