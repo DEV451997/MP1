@@ -27,7 +27,7 @@
   font-size: 150%;
   background-color: black;
   background: linear-gradient(to bottom, #000000, #232222);
-  padding: 50px;
+  padding: 75px;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
 }
 
@@ -85,9 +85,27 @@ width: 290px;
 height: 500px;
 }
 
-#membership-title {
-background-color: black;
-color: white;
+#bronze {
+  background-color: #cd7f32;
+color: black;
+font-size: 150%;
+margin: 0;
+padding: 0;
+border-radius: 10px 10px 0 0;
+}
+
+#silver {
+  background-color: #c0c0c0;
+color: black;
+font-size: 150%;
+margin: 0;
+padding: 0;
+border-radius: 10px 10px 0 0;
+}
+
+#gold {
+  background-color: #d4af37;
+color: black;
 font-size: 150%;
 margin: 0;
 padding: 0;
