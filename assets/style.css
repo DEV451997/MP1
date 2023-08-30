@@ -1,4 +1,15 @@
 /* Navigation bar styling */
+.home-nav {
+  background-color: black;
+  background: linear-gradient(to bottom, #000000, #232222);
+  height: 50px;
+}
+
+nav {
+  background-color: black;
+  background: linear-gradient(to bottom, #000000, #232222);
+}
+
 .navbar a {
   font-size: 3rem;
   color: white;
