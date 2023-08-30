@@ -1,24 +1,24 @@
 /* Navigation bar styling */
 .navbar a {
-    font-size: 2rem;
-    color: white;
-    text-decoration: none;
+  font-size: 2rem;
+  color: white;
+  text-decoration: none;
 }
 
 /* Body image for the landing page */
 .home-image {
-    background: url(../assets/images/ZEUS.background.jpg)no-repeat center center;
-    background-attachment: fixed;
-    background-size: cover;
+  background: url(../assets/images/ZEUS.background.jpg)no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 /* Styling for the welcome message and quote landing page */
 .container {
-    color: white;
-    text-align: center;
-    font-size: 1.5rem;
-    margin-top: 250px;
-    margin-bottom: 200px;
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 250px;
+  margin-bottom: 200px;
 }
 
 .scroll-down-arrow {
@@ -43,131 +43,129 @@
   }
 }
 
-
-
 .gym-info {
-  font-size: 150%;
-  text-align: center;
-  background-color: white;
-  color: black;
-  width: 100%;
-  display: grid;
-  place-content: center;
-  margin: 0;
+font-size: 150%;
+text-align: center;
+background-color: white;
+color: black;
+width: 100%;
+display: grid;
+place-content: center;
+margin: 0;
 }
 
 h2{
-  text-align: center;
-  color: white;
-  padding-top: 200px;
-  padding-bottom: 0px;
-  margin: 0;
+text-align: center;
+color: white;
+padding-top: 200px;
+padding-bottom: 0px;
+margin: 0;
 }
 
 #memberships {
-  display: flex;
-  flex-wrap: wrap;
-  margin-top: 0;
-  padding: 0;
-  background-color: black;
+display: flex;
+flex-wrap: wrap;
+margin-top: 0;
+padding: 0;
+background-color: black;
 }
 
 #membership-card-size{
-  width: 290px;
-  height: 500px;
+width: 290px;
+height: 500px;
 }
 
 #membership-title {
-  background-color: black;
-  color: white;
-  font-size: 150%;
-  margin: 0;
-  padding: 0;
+background-color: black;
+color: white;
+font-size: 150%;
+margin: 0;
+padding: 0;
 }
 
 #membership-text, li{
-  text-align: center;
-  list-style-type: none;
-  padding: 5px;
-  margin: 5px;
+text-align: center;
+list-style-type: none;
+padding: 5px;
+margin: 5px;
 }
 
 .map {
-  height: 100%;
-  width: 100%;
-  margin: 0;
+height: 100%;
+width: 100%;
+margin: 0;
 }
 
 .row {
-  margin: 0;
-  padding: 0;
+margin: 0;
+padding: 0;
 }
 
 /* Body image for facilities page */
 .facilities-image{
-    background: url(../assets/images/facilities\ page.jpg)no-repeat center center;
-    text-align: center;
+  background: url(../assets/images/facilities\ page.jpg)no-repeat center center;
+  text-align: center;
 }
 
 /* Padding and margin reset for the whole cards */
 .card {
-    margin: 0;
-    padding: 0;
-  }
+  margin: 0;
+  padding: 0;
+}
 
-  /* Animation when a card is hovered over */
-  .card:hover {
-    transform: scale(1.05);
-  }
-  
-  /* Styling for the images on top of the cards */
-  .card-image-top {
-    max-width: 100%;
-    padding: 0;
-    margin: 0;
-    max-height: 100%;
-  }
-  
-  /* Styling for the content of the cards */
-  .card-body {
-    text-align: center;
-    color: black;
-    letter-spacing: 0.5px;
-    font-size: 105%;
-    padding: 10px;
-  }
-  
-  /* Styling to display cards in lines of two */
-  .gym {
-    display: inline-block;
-  }
+/* Animation when a card is hovered over */
+.card:hover {
+  transform: scale(1.05);
+}
 
-  .signup-image{
-    background: url(/assets/images/sign\ up.png)no-repeat center center;
-    background-attachment: fixed;
-    background-size: cover;
-  }
+/* Styling for the images on top of the cards */
+.card-image-top {
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+  max-height: 100%;
+}
 
-  .center-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
+/* Styling for the content of the cards */
+.card-body {
+  text-align: center;
+  color: black;
+  letter-spacing: 0.5px;
+  font-size: 105%;
+  padding: 10px;
+}
+
+/* Styling to display cards in lines of two */
+.gym {
+  display: inline-block;
+}
+
+.signup-image{
+  background: url(/assets/images/sign\ up.png)no-repeat center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
 }
 
 .form-container {
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    width: 600px;
-    height: 600px;
-    color: black;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 600px;
+  height: 600px;
+  color: black;
 }
 
 .form-image {
-    max-height: 300px;
-    max-width: 300px;
-    margin-right: 20px;
+  max-height: 300px;
+  max-width: 300px;
+  margin-right: 20px;
 }
