@@ -20,6 +20,28 @@
     margin-top: 150px;
 }
 
+.gym-info {
+  font-size: 150%;
+  text-align: center;
+  background-color: white;
+  color: black;
+  width: 100%;
+  display: grid;
+  place-content: center;
+  margin: 0;
+}
+
+.map {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.row {
+  margin: 0;
+  padding: 0;
+}
+
 /* Body image for facilities page */
 .facilities-image{
     background: url(../assets/images/facilities\ page.jpg)no-repeat center center;
@@ -64,3 +86,27 @@
     background-attachment: fixed;
     background-size: cover;
   }
+
+  .center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    height: 600px;
+    color: black;
+}
+
+.form-image {
+    max-height: 300px;
+    max-width: 300px;
+    margin-right: 20px;
+}
