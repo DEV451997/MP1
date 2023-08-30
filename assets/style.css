@@ -53,17 +53,6 @@
   }
 }
 
-.gym-info {
-font-size: 150%;
-text-align: center;
-background-color: white;
-color: black;
-width: 100%;
-display: grid;
-place-content: center;
-margin: 0;
-}
-
 h2{
 text-align: center;
 color: white;
@@ -78,6 +67,7 @@ flex-wrap: wrap;
 margin-top: 0;
 padding: 0;
 background-color: black;
+background: linear-gradient(to bottom, #000000, #232222);
 }
 
 #membership-card-size{
@@ -119,15 +109,14 @@ padding: 5px;
 margin: 5px;
 }
 
-.map {
-height: 100%;
-width: 100%;
-margin: 0;
-}
-
-.row {
-margin: 0;
-padding: 0;
+footer{
+  text-align: center;
+  color: white;
+  font-size: 150%;
+  background-color: black;
+  background: linear-gradient(to bottom, #000000, #232222);
+  padding: 75px;
+  margin: 0;
 }
 
 /* Body image for facilities page */
