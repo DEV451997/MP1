@@ -17,8 +17,10 @@
     color: white;
     text-align: center;
     font-size: 1.5rem;
-    margin-top: 150px;
+    margin-top: 250px;
+    margin-bottom: 200px;
 }
+
 
 .gym-info {
   font-size: 150%;
@@ -29,6 +31,42 @@
   display: grid;
   place-content: center;
   margin: 0;
+}
+
+h2{
+  text-align: center;
+  color: white;
+  padding-top: 200px;
+  padding-bottom: 0px;
+  margin: 0;
+}
+
+#memberships {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0;
+  padding: 0;
+  background-color: black;
+}
+
+#membership-card-size{
+  width: 290px;
+  height: 500px;
+}
+
+#membership-title {
+  background-color: black;
+  color: white;
+  font-size: 150%;
+  margin: 0;
+  padding: 0;
+}
+
+#membership-text, li{
+  text-align: center;
+  list-style-type: none;
+  padding: 5px;
+  margin: 5px;
 }
 
 .map {
