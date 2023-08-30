@@ -33,7 +33,7 @@ nav {
   text-align: center;
   font-size: 1.5rem;
   margin-top: 250px;
-  margin-bottom: 275px;
+  margin-bottom: 290px;
 }
 
 .about-us {
@@ -131,6 +131,36 @@ footer{
   background: linear-gradient(to bottom, #000000, #232222);
   padding: 75px;
   margin: 0;
+}
+
+.social-icons {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.social-icons li {
+  display: inline;
+  color: white;
+}
+
+.social-icons li:hover {
+  color: crimson;
+}
+
+.social-icons a:link {
+  text-decoration: none;
+}
+
+.social-icons a:visited {
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  text-decoration: none;
+}
+
+.social-icons a:active {
+  text-decoration: none;
 }
 
 /* Body image for facilities page */
