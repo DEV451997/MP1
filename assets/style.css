@@ -1,13 +1,8 @@
 /* Navigation bar styling */
-.home-nav {
-  background-color: black;
-  background: linear-gradient(to bottom, #000000, #232222);
-  height: 50px;
-}
-
 nav {
   background-color: black;
   background: linear-gradient(to bottom, #000000, #232222);
+  height: 50px;
 }
 
 .navbar a {
@@ -169,6 +164,13 @@ footer{
   text-align: center;
 }
 
+.facilities-header{
+  text-align: center;
+  color: white;
+  margin-top: 225px;
+  font-size: 1.5rem;
+}
+
 /* Padding and margin reset for the whole cards */
 .card {
   margin: 0;
@@ -186,6 +188,7 @@ footer{
   padding: 0;
   margin: 0;
   max-height: 100%;
+  border: solid crimson 5px;
 }
 
 /* Styling for the content of the cards */
@@ -200,6 +203,7 @@ footer{
 /* Styling to display cards in lines of two */
 .gym {
   display: inline-block;
+  margin-bottom: 100px;
 }
 
 .signup-image{
