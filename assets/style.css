@@ -11,7 +11,7 @@ nav {
   text-decoration: none;
 }
 
-.navbar a:hover{
+.navbar a:hover {
   color: crimson;
 }
 
@@ -52,73 +52,81 @@ nav {
 }
 
 @keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
+
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
   }
+
   40% {
-      transform: translateY(10px);
+    transform: translateY(10px);
   }
+
   60% {
-      transform: translateY(5px);
+    transform: translateY(5px);
   }
 }
 
-.membership-title{
-text-align: center;
-color: white;
-margin-top: 100px;
+.membership-title {
+  text-align: center;
+  color: white;
+  margin-top: 100px;
 }
 
 #memberships {
-display: flex;
-flex-wrap: wrap;
-margin-top: 0;
-margin-bottom: 100px;
-padding: 0;
-background-color: black;
-background: linear-gradient(to bottom, #000000, #232222);
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0;
+  margin-bottom: 100px;
+  padding: 0;
+  background-color: black;
+  background: linear-gradient(to bottom, #000000, #232222);
 }
 
-#membership-card-size{
-width: 290px;
-height: 500px;
+#membership-card-size {
+  width: 290px;
+  height: 500px;
 }
 
 #bronze {
   background-color: #cd7f32;
-color: black;
-font-size: 150%;
-margin: 0;
-padding: 0;
-border-radius: 10px 10px 0 0;
+  color: black;
+  font-size: 150%;
+  margin: 0;
+  padding: 0;
+  border-radius: 10px 10px 0 0;
 }
 
 #silver {
   background-color: #c0c0c0;
-color: black;
-font-size: 150%;
-margin: 0;
-padding: 0;
-border-radius: 10px 10px 0 0;
+  color: black;
+  font-size: 150%;
+  margin: 0;
+  padding: 0;
+  border-radius: 10px 10px 0 0;
 }
 
 #gold {
   background-color: #d4af37;
-color: black;
-font-size: 150%;
-margin: 0;
-padding: 0;
-border-radius: 10px 10px 0 0;
+  color: black;
+  font-size: 150%;
+  margin: 0;
+  padding: 0;
+  border-radius: 10px 10px 0 0;
 }
 
-#membership-text, li{
-text-align: center;
-list-style-type: none;
-padding: 5px;
-margin: 5px;
+#membership-text,
+li {
+  text-align: center;
+  list-style-type: none;
+  padding: 5px;
+  margin: 5px;
 }
 
-footer{
+footer {
   text-align: center;
   color: white;
   font-size: 150%;
@@ -159,12 +167,12 @@ footer{
 }
 
 /* Body image for facilities page */
-.facilities-image{
+.facilities-image {
   background: url(../assets/images/facilities\ page.jpg)no-repeat center center;
   text-align: center;
 }
 
-.facilities-header{
+.facilities-header {
   text-align: center;
   color: white;
   margin-top: 225px;
@@ -206,7 +214,7 @@ footer{
   margin-bottom: 100px;
 }
 
-.signup-image{
+.signup-image {
   background: url(/assets/images/sign\ up.png)no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
