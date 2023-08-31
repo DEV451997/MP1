@@ -179,7 +179,7 @@ footer{
 
 /* Animation when a card is hovered over */
 .card:hover {
-  transform: scale(1.05);
+  transform: scale(1.1) rotate(0.5deg);
 }
 
 /* Styling for the images on top of the cards */
