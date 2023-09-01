@@ -5,12 +5,14 @@ nav {
   height: 50px;
 }
 
+/* Navigation bar home, facilties and sign up anchor tag styling */
 .navbar a {
   font-size: 3rem;
   color: white;
   text-decoration: none;
 }
 
+/* Navigation bar home, facilties and sign up anchor tag hover effect styling */
 .navbar a:hover {
   color: crimson;
 }
@@ -31,6 +33,7 @@ nav {
   margin-bottom: 290px;
 }
 
+/* About us information for landing page styling */
 .about-us {
   text-align: center;
   color: white;
@@ -41,16 +44,19 @@ nav {
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
 }
 
+/* Scroll down arrow styling */
 .scroll-down-arrow {
   text-align: center;
   margin-top: 20px;
 }
 
+/* Scroll down arrow icon styling */
 .scroll-down-arrow i {
   font-size: 24px;
   animation: bounce 2s infinite;
 }
 
+/* Scroll down arrow animation */
 @keyframes bounce {
 
   0%,
@@ -70,12 +76,14 @@ nav {
   }
 }
 
+/* Memership title styling */
 .membership-title {
   text-align: center;
   color: white;
   margin-top: 100px;
 }
 
+/* Styling for container for membership cards */
 #memberships {
   display: flex;
   flex-wrap: wrap;
@@ -86,11 +94,13 @@ nav {
   background: linear-gradient(to bottom, #000000, #232222);
 }
 
+/* Membership card sizing */
 .membership-card-size {
   width: 290px;
   height: 500px;
 }
 
+/* Styling for bronze membership card */
 #bronze {
   background-color: #cd7f32;
   color: black;
@@ -100,6 +110,7 @@ nav {
   border-radius: 10px 10px 0 0;
 }
 
+/* Styling for silver membership card */
 #silver {
   background-color: #c0c0c0;
   color: black;
@@ -109,6 +120,7 @@ nav {
   border-radius: 10px 10px 0 0;
 }
 
+/* Styling for gold membership card */
 #gold {
   background-color: #d4af37;
   color: black;
@@ -118,6 +130,7 @@ nav {
   border-radius: 10px 10px 0 0;
 }
 
+/* Styling for membership card list items/content */
 .membership-text,
 li {
   text-align: center;
@@ -126,6 +139,7 @@ li {
   margin: 5px;
 }
 
+/* Footer styling for all pages */
 footer {
   text-align: center;
   color: white;
@@ -142,6 +156,7 @@ footer {
   text-align: center;
 }
 
+/* Header styling for facilities page */
 .facilities-header {
   text-align: center;
   color: white;
@@ -184,12 +199,14 @@ footer {
   margin-bottom: 100px;
 }
 
+/* Body image for the signup page */
 .signup-image {
   background: url(../assets/images/sign-up.png)no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
 }
 
+/* Signup form styling */
 .form {
   display: flex;
   justify-content: center;
@@ -200,6 +217,7 @@ footer {
   margin-bottom: 100px;
 }
 
+/* Styling for the content within the form */
 .form-container {
   background-color: black;
   background: linear-gradient(to bottom, #000000, #232222);
@@ -211,18 +229,21 @@ footer {
   color: white;
 }
 
+/* Header within form styling */
 .form-container h2 {
   color: crimson; 
   font-size: 2.5rem;
   padding: 10px;
 }
 
+/* Sizing, padding and margin for form content */
 .form-content {
   font-size: 1.5rem;
   padding: 15px;
   margin: 15px;
 }
 
+/* Styling for the text input */
 .form-content input[type="text"],
 .form-content input[type="email"] {
   background: transparent;
@@ -234,6 +255,7 @@ footer {
   font-size: 1.25rem;
 }
 
+/* Styling for all buttons on site */
 button {
   width: 200px;
   padding: 10px;
