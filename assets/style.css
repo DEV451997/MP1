@@ -267,3 +267,8 @@ button {
   width: 200px;
   padding: 10px;
 }
+
+.strength-card{
+  border-right: 2px solid red; /* Add a red border to the right side of the card */
+  padding-right: 10px; 
+}
