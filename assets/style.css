@@ -175,7 +175,7 @@ footer {
 .facilities-header {
   text-align: center;
   color: white;
-  margin-top: 225px;
+  margin-top: 250px;
   font-size: 1.5rem;
 }
 
@@ -215,7 +215,7 @@ footer {
 }
 
 .signup-image {
-  background: url(/assets/images/sign\ up.png)no-repeat center center;
+  background: url(/assets/images/sign-up.png)no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -225,8 +225,9 @@ footer {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  margin-top: 200px;
+  margin-top: 250px;
   padding: 20px;
+  margin-bottom: 100px;
 }
 
 .form-container {
