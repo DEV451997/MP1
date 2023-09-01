@@ -34,7 +34,7 @@ nav {
 .about-us {
   text-align: center;
   color: white;
-  font-size: 150%;
+  font-size: 1.5rem;
   background-color: black;
   background: linear-gradient(to bottom, #000000, #232222);
   padding: 75px;
@@ -136,36 +136,6 @@ footer {
   margin: 0;
 }
 
-.social-icons {
-  list-style-type: none;
-  padding: 10px;
-}
-
-.social-icons li {
-  display: inline;
-  color: white;
-}
-
-.social-icons li:hover {
-  color: crimson;
-}
-
-.social-icons a:link {
-  text-decoration: none;
-}
-
-.social-icons a:visited {
-  text-decoration: none;
-}
-
-.social-icons a:hover {
-  text-decoration: none;
-}
-
-.social-icons a:active {
-  text-decoration: none;
-}
-
 /* Body image for facilities page */
 .facilities-image {
   background: url(../assets/images/facilities\ page.jpg)no-repeat center center;
@@ -196,7 +166,7 @@ footer {
   padding: 0;
   margin: 0;
   max-height: 100%;
-  border: solid crimson 5px;
+  border: solid crimson 8px;
 }
 
 /* Styling for the content of the cards */
