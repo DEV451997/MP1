@@ -86,7 +86,7 @@ nav {
   background: linear-gradient(to bottom, #000000, #232222);
 }
 
-#membership-card-size {
+.membership-card-size {
   width: 290px;
   height: 500px;
 }
@@ -118,7 +118,7 @@ nav {
   border-radius: 10px 10px 0 0;
 }
 
-#membership-text,
+.membership-text,
 li {
   text-align: center;
   list-style-type: none;
@@ -266,9 +266,4 @@ footer {
 button {
   width: 200px;
   padding: 10px;
-}
-
-.strength-card{
-  border-right: 2px solid red; /* Add a red border to the right side of the card */
-  padding-right: 10px; 
 }
