@@ -185,7 +185,7 @@ footer {
 }
 
 .signup-image {
-  background: url(/assets/images/sign-up.png)no-repeat center center;
+  background: url(../assets/images/sign-up.png)no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
 }
