@@ -207,20 +207,28 @@ Used to create, edit & preview the project's code.
 ## HTML Validation
 
 [HTML Validator](https://validator.w3.org/) The HTML pages were run through a HTML Validator.
-<details><summary>Home Page</summary><img src=""></details>
-<details><summary>Facilities Page</summary><img src=""></details>
-<details><summary>Sign Up Page</summary><img src=""></details>
+<details><summary>Home Page</summary><img src="assets/images/readme-indexhtml-check.png"></details>
+<details><summary>Facilities Page</summary><img src="assets/images/readme-facilitieshtml-checker.png"></details>
+<details><summary>Sign Up Page</summary><img src="assets/images/readme-signuphtml-checker.png"></details>
 
 ### Errors
 
+* The first error I encountered during the development of my project was using the same ID attribute in multiple HTML elements. An ID should be unique within a page. 
+
 ### Fixes
+
+* To correct this error, I made the necessary changes to ensure each HTML element had a unique identifier. Specifically, I changed the ID attribute "membership-card-size" to a class attribute, which allows multiple elements to share the same class while still maintaining their individual identities. This adjustment ensured that my HTML markup followed best practices and eliminated any potential conflicts or styling problems associated with using duplicate IDs.
 
 [CSS Validator](https://jigsaw.w3.org/css-validator/) The CSS page was run through a CSS Validator.
-<details><summary>Stylesheet</summary><img src=""></details>
+<details><summary>Stylesheet</summary><img src="assets/images/readme-stylesheet-checker.png"></details>
 
 ### Errors
 
+* Images for the body elements were not displaying when the website was deployed to GitHub Pages.
+
 ### Fixes
+
+* To resolve the issue of images not displaying on GitHub Pages, I ensured that the file paths to the images in my CSS file were correctly specified based on my project's directory structure. I made use of ../ to navigate up one directory level when necessary to locate the images correctly. 
 
 ## Responsiveness
 
