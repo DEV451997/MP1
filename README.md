@@ -104,3 +104,56 @@ I conducted online research looking at other gym websites to see how their infor
 
 * Contact Information: Includes essential contact details, such as phone number for user inquiries.
 * Opening Hours: Includes the gym opening hours for each day of the week.
+
+## User Stories
+
+User Story 1
+
+As a fitness enthusiast, I want to explore the membership options available at Mt. Olympus Gym so that I can choose the one that best suits my needs. I also want to know the pricing details and benefits associated with each membership level. When I find a suitable option, I want to be able to easily register online.
+
+User Story 2 
+
+As a potential member of Mt. Olympus Gym, I want to browse through the gym's amenities and facilities. I'm interested in seeing what workout equipment they have, what recovery facilities are available, and if they offer meal services. Clear and detailed descriptions with images will help me decide if this gym is the right fit for me.
+
+User Story 3 
+
+As a visitor to the Mt. Olympus Gym website, I want to easily navigate the site to find essential information. I expect a clear and intuitive navigation bar that takes me to the Home, Facilities, and Sign-Up pages. Additionally, I want to easily access the gym's contact information, such as phone numbers, for any inquiries I may have.
+
+## User Story Testing
+
+| **Feature** | **Expect** | **Action/Result** | 
+| -------- | -------- | -------- |
+| Memberships | To be provided with all memberships information including price and perks. | Scroll down to Memberhip section where the user is presented with all the membership information they could need. |
+
+<details><summary>Screen Recording</summary>
+
+<img src="">
+
+</details>
+
+<br>
+
+| **Feature** | **Expect** | **Action/Result** | 
+| -------- | -------- | -------- |
+| Facilities | To be provided with all the information regarding facilities with images to see if the gym is a good fit. | Navigate to the facilities page via the navigation bar where the user is displayed four information cards. These provide information about each service/facility offered along with detailed images to show the facility. |
+
+<details><summary>Screen Recording</summary>
+
+<img src="">
+
+</details>
+
+<br>
+
+| **Feature** | **Expect** | **Action/Result** | 
+| -------- | -------- | -------- |
+| Navigation and queries | I expect to be able to navigate through the website seamlessly and be displayed with information in a clear to read and consise format. I also want to be displayed with times and contact information to for any queries. | Ease of navigation is helped with the nav bar providing acces to all pages. Times and contact information sit in the footer of the page so the user can easily contact the gym and find more information about opening times. |
+
+<details><summary>Screen Recording</summary>
+
+<img src="">
+
+## Future Features
+
+Some additonal features I would like to add include:
+* I would like to add interactivety to the site using javascript in the future.
