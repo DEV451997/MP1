@@ -1,6 +1,6 @@
 # Welcome to Mt.Olympus: Ascending Dreams, Achieving Peaks: Your Journey to Fitness Transformation.
 
-<img src="">
+<img src="assets/images/readme-responsive-image.png">
 
 ## What is Mt.Olmypus
 
@@ -41,16 +41,19 @@ I conducted online research looking at other gym websites to see how their infor
 
 ## Navigation Bar
 
-<img src="">
-
 * Site-Wide Navigation: Appears consistently across all pages for easy access to key sections.
 * Main Navigation: Contains links to Home, Facilities, and Sign Up, serving as the primary navigation menu.
 * Prominent Placement: Positioned at the top of each page for maximum visibility.
+
+<img src="assets/images/readme-navbar.png">
+
 * Interactive Design: Features a hover effect that changes the link color to red, enhancing user interactivity.
+
+<img src="assets/images/readme-navbar-hover.png">
 
 ## Landing Page Hero text and Quote
 
-<img src="">
+<img src="assets/images/readme-landingpage-hero.png">
 
 * Welcome Statement: Greets users with a welcoming message and a brief introduction to the gym's purpose.
 * Clear and Central: Presented in large, centered lettering for immediate user engagement.
@@ -58,7 +61,7 @@ I conducted online research looking at other gym websites to see how their infor
 
 ## Animated Downward Arrow
 
-<img src="">
+<img src="assets/images/readme-arrow.png">
 
 * Engagement Prompt: Placed beneath the hero text, it uses CSS animation to encourage users to scroll down.
 * Intuitive Navigation: Guides users smoothly from the landing section to subsequent content.
@@ -66,14 +69,14 @@ I conducted online research looking at other gym websites to see how their infor
 
 ## About Us Section
 
-<img src="">
+<img src="assets/images/readme-aboutus.png">
 
 * Mythical Theme: Balances the concept of Mt. Olympus as a mythical gym with a clear explanation of its fitness facilities.
 * Insightful Content: Offers a deeper understanding of the gym's identity.
 
 ## Memberships Section
 
-<img src="">
+<img src="assets/images/readme-memberships.png">
 
 * Membership Overview: Comprises three distinct cards, each detailing a specific membership level (Bronze, Silver, Gold).
 * Perk Highlight: Clearly outlines the cost, benefits, access times, and perks associated with each membership.
@@ -82,13 +85,16 @@ I conducted online research looking at other gym websites to see how their infor
 
 ## Facilities Hero Text and Paragraph
 
-<img src="">
+<img src="assets/images/readme-facilities-hero.png">
 
 * Highlighting Gym Features: Provides an introduction to the gym's facilities.
 * Descriptive Text: Accompanies the hero text to offer more details about the gym's amenities.
 * Attractive Presentation: Utilizes engaging language and design to entice users to explore further.
 
 ## Facilities Information Cards
+
+<img src="assets/images/readme-facilitiescard1.png">
+<img src="assets/images/readme-facilitiescard2.png">
 
 * Comprehensive Details: Information cards offer in-depth insights into each facility.
 * User-Friendly Layout: Structured for easy readability and quick access to specific facility information.
@@ -97,10 +103,14 @@ I conducted online research looking at other gym websites to see how their infor
 
 ## Sign Up Form
 
+<img src="assets/images/readme-signup.png">
+
 * Membership Registration: Provides a user-friendly form for visitors to sign up for memberships.
 * Efficient Data Collection: Gathers necessary user information while maintaining a straightforward layout.
 
 ## Footer
+
+<img src="assets/images/readme-footer.png">
 
 * Contact Information: Includes essential contact details, such as phone number for user inquiries.
 * Opening Hours: Includes the gym opening hours for each day of the week.
