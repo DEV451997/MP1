@@ -180,3 +180,21 @@ The site is made up of three pages.
 ### Languages Used
 
 [HTML](https://www.w3schools.com/html/html_intro.asp) and [CSS](https://www.w3schools.com/Css/) were used to create this project. Information from w3schools is provided via the links.
+
+### Tools
+
+* [Git](https://git-scm.com/)
+Used for version control via GitPod by using the terminal to Git and Push to GitHub.
+* [GitHub](https://github.com/)
+Used to store the project code after being created in GitPod / Git.
+* [Gitpod](https://www.gitpod.io/)
+Used to create, edit & preview the project's code.
+
+# Testing
+
+## HTML Validation
+
+[HTML Validator](https://validator.w3.org/) The HTML pages were run through a HTML Validator.
+<details><summary>Home Page</summary><img src=""></details>
+<details><summary>Facilities Page</summary><img src=""></details>
+<details><summary>Sign Up Page</summary><img src=""></details>
