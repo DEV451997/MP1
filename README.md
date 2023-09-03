@@ -153,6 +153,8 @@ As a visitor to the Mt. Olympus Gym website, I want to easily navigate the site 
 
 <img src="">
 
+</details>
+
 ## Future Features
 
 Some additonal features I would like to add include:
