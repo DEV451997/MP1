@@ -147,7 +147,7 @@ As a visitor to the Mt. Olympus Gym website, I want to easily navigate the site 
 
 | **Feature** | **Expect** | **Action/Result** | 
 | -------- | -------- | -------- |
-| Navigation and queries | I expect to be able to navigate through the website seamlessly and be displayed with information in a clear to read and consise format. I also want to be displayed with times and contact information to for any queries. | Ease of navigation is helped with the nav bar providing acces to all pages. Times and contact information sit in the footer of the page so the user can easily contact the gym and find more information about opening times. |
+| Navigation and queries | I expect to be able to navigate through the website seamlessly and be displayed with information in a clear to read and consise format. I also want to be displayed with times and contact information for any queries. | Ease of navigation is helped with the nav bar providing acces to all pages. Times and contact information sit in the footer of the page so the user can easily contact the gym and find more information about opening times. |
 
 <details><summary>Screen Recording</summary>
 
@@ -157,3 +157,26 @@ As a visitor to the Mt. Olympus Gym website, I want to easily navigate the site 
 
 Some additonal features I would like to add include:
 * I would like to add interactivety to the site using javascript in the future.
+
+# Design and Structure
+
+## Structure
+
+The site is made up of three pages. 
+
+* Landing Page: This contains an introduction to Mt.Olmypus and membership information to prompt the user to check out the gym facilities.
+* Facilities Page: This contains all the information regarding the facilities offered at Mt.Olmypus in four fully responsive cards.
+* Sign Up Page: This page contains the sign up form. This is the only piece of information on this page to allow the user to promptly sign up.
+* The footer and navigation bars spans across all three pages so this is the way to navigate through the site. Also the footer is on all pages so the user is always displayed with the contact information and opening hours at all times.
+
+### Colors
+
+* After researching various gym websites I came to the conclusion I wanted to create a dark and edgy site.
+* I mainly used dark colors with the images used on each page very dark to allow contrast between the important information of each page.
+* White was mainly used for the text as this provides stark contrast to black allowing the important information to stand out.
+* Black was used for text against the white background of the cards for the same reason as above.
+* Along with black and white I used crimson red. Crimson is a very strong color and it was used in areas to display importance. For example the images on the facilities page. It was also used as a hover effect on the navigation bar to emphasise what link the user is about to click. It was also used on the input lines in the signup form.
+
+### Languages Used
+
+[HTML](https://www.w3schools.com/html/html_intro.asp) and [CSS](https://www.w3schools.com/Css/) were used to create this project. Information from w3schools is provided via the links.
