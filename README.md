@@ -198,3 +198,36 @@ Used to create, edit & preview the project's code.
 <details><summary>Home Page</summary><img src=""></details>
 <details><summary>Facilities Page</summary><img src=""></details>
 <details><summary>Sign Up Page</summary><img src=""></details>
+
+### Errors
+
+### Fixes
+
+[CSS Validator](https://jigsaw.w3.org/css-validator/) The CSS page was run through a CSS Validator.
+<details><summary>Stylesheet</summary><img src=""></details>
+
+### Errors
+
+### Fixes
+
+## Responsiveness
+
+The site was tested on the following devices:
+* Asus Vivobook Book Pro 16"
+* Samsung S23 Ultra
+* Samsung S20
+* Acer Chromebook 14"
+* Google Developer tools. Utilizing all dimensions including the responsive option.
+
+## Deployment
+
+### GitHub Pages
+
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+* In the GitHub repository, navigate to the Settings tab at the top of the page.
+* In the left hand menu find and select 'Pages'.
+* From the source select Branch: main.
+* Click 'Save'.
+* A link will be displayed when published successfully which can be shared and accessed through deployments.
+
+## Credits
