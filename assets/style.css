@@ -157,7 +157,7 @@ li {
 /* Styling to remove the underline when hovering over anchor tag */
 .card-button a:hover {
   text-decoration: none;
-  color: crimson;
+  color: black;
 }
 
 /* Footer styling for all pages */
