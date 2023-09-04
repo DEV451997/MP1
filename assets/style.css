@@ -97,7 +97,7 @@ nav {
 /* Membership card sizing */
 .membership-card-size {
   width: 290px;
-  height: 500px;
+  height: 550px;
 }
 
 /* Styling for bronze membership card */
@@ -137,6 +137,26 @@ li {
   list-style-type: none;
   padding: 5px;
   margin: 5px;
+}
+
+/* Styling for membership card button */
+.card-button {
+  text-align: center;
+  padding: 10px;
+  width: 200px;
+  margin-top: 22px;
+}
+
+/* Styling for anchor tag within membership card button */
+.card-button a {
+  color: black;
+  text-decoration: none;
+  font-size: 110%;
+}
+
+/* Styling to remove the underline when hovering over anchor tag */
+.card-button a:hover {
+  text-decoration: none;
 }
 
 /* Footer styling for all pages */
@@ -255,8 +275,8 @@ footer {
   font-size: 1.25rem;
 }
 
-/* Styling for all buttons on site */
-button {
+/* Styling for form button on site */
+.signup-button {
   width: 200px;
   padding: 10px;
 }
