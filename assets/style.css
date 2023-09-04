@@ -157,6 +157,7 @@ li {
 /* Styling to remove the underline when hovering over anchor tag */
 .card-button a:hover {
   text-decoration: none;
+  color: crimson;
 }
 
 /* Footer styling for all pages */
@@ -251,7 +252,7 @@ footer {
 
 /* Header within form styling */
 .form-container h2 {
-  color: crimson; 
+  color: crimson;
   font-size: 2.5rem;
   padding: 10px;
 }
