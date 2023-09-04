@@ -137,7 +137,7 @@ As a visitor to the Mt. Olympus Gym website, I want to easily navigate the site 
 
 <details><summary>Screen Recording</summary>
 
-<img src="">
+<img src="assets/images/memberships-sc.gif">
 
 </details>
 
@@ -149,7 +149,7 @@ As a visitor to the Mt. Olympus Gym website, I want to easily navigate the site 
 
 <details><summary>Screen Recording</summary>
 
-<img src="">
+<img src="assets/images/facilities-sc.gif">
 
 </details>
 
@@ -161,7 +161,7 @@ As a visitor to the Mt. Olympus Gym website, I want to easily navigate the site 
 
 <details><summary>Screen Recording</summary>
 
-<img src="">
+<img src="assets/images/navigation-sc.gif">
 
 </details>
 
