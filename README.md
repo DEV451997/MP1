@@ -253,3 +253,9 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 * A link will be displayed when published successfully which can be shared and accessed through deployments.
 
 ## Credits
+
+The images used were taken from the free site [Pexels](https://www.pexels.com/). I also used and filtered free images via Google Images.
+
+* The gym image was used from Leon Ardho via Pexels. (https://www.pexels.com/photo/barbell-on-the-floor-1552252/).
+* The facilities image was taken from Pexels via. (https://www.pexels.com/photo/grayscale-photo-of-parthenon-in-athens-7708662/)
+* The remaining images were taken from Google making sure to filter to all creative commons and or free to use.
