@@ -214,10 +214,12 @@ Used to create, edit & preview the project's code.
 ### Errors
 
 * The first error I encountered during the development of my project was using the same ID attribute in multiple HTML elements. An ID should be unique within a page. 
+* Second error I ran into was adding an anchor element to a button.
 
 ### Fixes
 
 * To correct this error, I made the necessary changes to ensure each HTML element had a unique identifier. Specifically, I changed the ID attribute "membership-card-size" to a class attribute, which allows multiple elements to share the same class while still maintaining their individual identities. This adjustment ensured that my HTML markup followed best practices and eliminated any potential conflicts or styling problems associated with using duplicate IDs.
+* To correct the second error I removed the button element and used to anchor tag with a btn class from bootstrap to obtain the same result while adhering to correct use of HTML elements.
 
 [CSS Validator](https://jigsaw.w3.org/css-validator/) The CSS page was run through a CSS Validator.
 <details><summary>Stylesheet</summary><img src="assets/images/readme-stylesheet-checker.png"></details>
